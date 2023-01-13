@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sumit1560"> <img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Sumit1560&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" height="50" width="210" alt="https://www.buymeacoffee.com/Sumit1560" /><a href='https://ko-fi.com/C0C8HRLIJ' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-thakur1&show_icons=true&locale=en&layout=compact" alt="sumit-thakur1" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sumit-thakur1&show_icons=true&locale=en&theme=radical&layout=compact" alt="sumit-thakur1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-thakur1&show_icons=true&locale=en" alt="sumit-thakur1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumit-thakur1&show_icons=true&locale=en&theme=radical" alt="sumit-thakur1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-thakur1&" alt="sumit-thakur1" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-thakur1&theme=radical" alt="sumit-thakur1" /></p> 
